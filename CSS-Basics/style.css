@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Mea+Culpa&display=swap');
+
+body{
+    background-color: hsl(130, 77%, 88%);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    background-color: lightsalmon;
+    padding: 1%;
+}
+
+h1{
+    color: brown;
+}
+
+h3{
+    color: rgb(19, 19, 156);
+}
+
+/* div {
+    font-size: 10px;
+} */
+
+p{
+    font-family: 'Mea Culpa', Helvetica, sans-serif;
+    color: #03410d;
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 1.6em;
+}
+
+#second-p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #043a47;
+    font-size: 1.5rem;
+    font-weight: normal;
+    line-height: 1.2em;
+}
+
+#box-model{
+    background-color: lightseagreen;
+    width: 300px;
+    border: 15px solid black;
+    padding: 50px;
+    /* margin: 20px; */
+
+    /* margin-top: 5px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    margin-left: 10px; */
+
+    /* margin: 5px 10px 5px 10px; */
+    margin: 5px 10px;
+}
